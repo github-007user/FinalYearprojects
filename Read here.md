@@ -31,4 +31,13 @@ Price ranges from <h1>Rs 1500 - Rs 8000</h1>
 </hr>
 
 <h3>Sample Images</h3>
-<img>
+<img src='./images/Screenshot 2024-03-19 193748.png'>
+<img src='./images/Screenshot 2024-03-19 193819.png'>
+<img src='./images/Screenshot 2024-03-19 193847.png'>
+<img src='./images/Screenshot 2024-03-19 193916.png'>
+<img src='./images/Login.png'>
+<img src='./images/Register.png'>
+<img src='./images/After_register.png'>
+<img src='./images/1.jpg'>
+<img src='./images/2.jpg'>
+<img src='./images/3.jpg'>
